@@ -217,9 +217,9 @@ $( document ).ready(function() {
     });
 
     // If beyond 24, show message
-    if(day >= 26){
-      messageReveal();
-    }
+    //if(day >= 26){
+    //  messageReveal();
+    //}
 
   }
 
