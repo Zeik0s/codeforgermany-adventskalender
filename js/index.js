@@ -6,10 +6,10 @@ $( document ).ready(function() {
       "<img src=img/christkind.png></img>",
       ""
     ], 
-    [ "2018116-200",
-      "Rette Deinen Nahverkehr",
-      "Eine Aktion der Open Knowledge Foundation Deutschland e.V. zur Förderung Offener ÖPNV-Daten.",
-      "https://rettedeinennahverkehr.de/"
+    [ "note",
+      "Einstimmen auf Weihnachten",
+      "Da du gerne singst und soweit ich weiß auch Acapella Musik magst, denke ich, dass dir dieses Lied gut gefallen wird.",
+      "https://youtu.be/LRP8d7hhpoQ"
     ], 
     [ "771074-200",
       "kleine Anfragen",
@@ -142,7 +142,7 @@ $( document ).ready(function() {
   // day=25; // uncomment to skip to 25
 
   // Only work in December
-  if(month === 11) {
+  if(month === 12) {
     // Loop through each calendar window
     $("li").each( function( index ) {
       var adventwindow = index + 1;
@@ -190,7 +190,7 @@ $( document ).ready(function() {
 	    $('#js-overlay-content').html(
               '<h1>'+headline+'</h1><p>' 
               + description 
-              + '</p><br /><a target="_blank" href="' + link + '">Hier gehts zum Projekt &gt;&gt;<br />'
+              + '</p><br /><a target="_blank" href="' + link + '">Hier gehts weiter &gt;&gt;<br />'
               + '<img src="img/' + iconcode + '.png" /></a>'
             );
            }
