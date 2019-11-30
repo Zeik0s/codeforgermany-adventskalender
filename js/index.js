@@ -1,10 +1,10 @@
 $( document ).ready(function() {
 
   var contents = [
-    [ "1982884-200", 
-      "Weihnachtsmärkte in Münster",
-      "Eine kleine Webapp, mit der man den Münsteraner Weihnachtsmarkt durchsuchen kann.",
-      "https://weihnachtsmarkt.ms/"
+    [ "story", 
+      "Weihnachtstrubel",
+      "<img src=img/christkind.png></img>",
+      ""
     ], 
     [ "2018116-200",
       "Rette Deinen Nahverkehr",
@@ -181,12 +181,19 @@ $( document ).ready(function() {
         if(adventwindow <= day) { 
 
           if ($(this).children(".door").hasClass('open')) {
-            $('#js-overlay-content').html(
+            if (link == "") {
+	$('#js-overlay-content').html(                                                                                                                                                                                                                 '<h1>'+headline+'</h1><p>' 
+           + description 
+           + '<img src="img/' + iconcode + '.png" /></a>'                                                                                                                                                                                             ); 
+	    }
+	    else {
+	    $('#js-overlay-content').html(
               '<h1>'+headline+'</h1><p>' 
               + description 
               + '</p><br /><a target="_blank" href="' + link + '">Hier gehts zum Projekt &gt;&gt;<br />'
               + '<img src="img/' + iconcode + '.png" /></a>'
             );
+           }
 
             novicell.overlay.create({
               'selector': '#js-overlay-content',
@@ -200,19 +207,19 @@ $( document ).ready(function() {
           $(this).removeClass("jiggle");
 
           // If 25th, can show the message
-          if(day >= 25 && adventwindow === 25) {
-            messageReveal();
+          //if(day >= 25 && adventwindow === 25) {
+          //  messageReveal();
 
             // Animate scroll to message if not already done
             if(!scrolled) {
-              $('html, body').animate({
-                scrollTop: $("#message").offset().top
+             $('html, body').animate({
+               scrollTop: $("#message").offset().top
               }, 2000);
-              scrolled = true;
+             scrolled = true;
             }
           }
         }
-      });
+      );
 
     });
 
