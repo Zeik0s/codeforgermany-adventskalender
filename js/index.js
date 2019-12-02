@@ -18,22 +18,22 @@ $( document ).ready(function() {
     ],  
     [ "skiing",
       "Sport",
-      "Der nächste Skiurlaub kommt schon bald. Als Vorbereitung wird dir deine Tochter eine Sportübung aufgeben, die du machen musst.",
+      "Der nächste Skiurlaub kommt schon bald. Als Vorbereitung wird dir deine Tochter eine Sportübung aufgeben, die du machen musst. <div></div>",
       ""
     ], 
     [ "krampus",
       "Imitation",
-      "Der Krampus soll heute Thema sein. Imitiere dazu einen Krampus (zb. raschelnde Kette, Rute, oder anderwärtig) und verhalte dich so, ohne dass du es dieser Person erzählst.",
+      "Der Krampus soll heute Thema sein. Imitiere dazu einen Krampus (zb. raschelnde Kette, Rute, oder anderwärtig) und erschrecke damit eine beliebige Person in deinem Umkreis. <div></div>",
       ""
     ], 
     [ "santa",
     "Nikolausjause",
-    "Heute ist Tag des heiligen Nikolaus. Da es quasi Brauch ist, dass Eltern deren Kindern an diesem Tag Säckchen mit Erdnüssen und/oder Mandarinen schenken, sollst du heute zumindest eines von beiden gegessen haben.",
+    "Heute ist Tag des heiligen Nikolaus. Da es quasi Brauch ist, dass Eltern deren Kindern an diesem Tag Säckchen mit Erdnüssen und/oder Mandarinen schenken, sollst du heute zumindest eines von beiden gegessen haben. <div></div>",
     ""
     ],
     [ "story",
     "Maxime",
-    "Heute will ich dir eine folgende Maxime mitgeben: Advent heißt <br><br> A – annehmen, auch den, der dir nicht passt <br><br> D – da sein füreinander <br><br> V – vertrauen, dass alles gut wird <br><br> E – entdecken, was wichtig ist<br><br> N – neu beginnen, auch wenn du gestern gescheitert bist <br><br> T – tragen helfen denen, die deine Hilfe brauchen",
+    "Heute will ich dir eine folgende Maxime mitgeben: Advent heißt <br><br> A – annehmen, auch den, der dir nicht passt <br><br> D – da sein füreinander <br><br> V – vertrauen, dass alles gut wird <br><br> E – entdecken, was wichtig ist<br><br> N – neu beginnen, auch wenn du gestern gescheitert bist <br><br> T – tragen helfen denen, die deine Hilfe brauchen <div></div>",
     ""
     ],
     [ "X-200",
