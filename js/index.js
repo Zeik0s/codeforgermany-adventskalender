@@ -11,30 +11,30 @@ $( document ).ready(function() {
       "Da du gerne singst und soweit ich weiß auch Acapella Musik magst, denke ich, dass dir dieses Lied gut gefallen wird.",
       "https://youtu.be/LRP8d7hhpoQ"
     ], 
-    [ "771074-200",
-      "kleine Anfragen",
-      "Sogenannte “kleine Anfragen” von Parlamentariern müssen von ihrer jeweiligen Regierung zeitnah und öffentlich beantwortet werden. Diese Seite sammelt solche Anfragen, weil in den Antworten oft interessante Details stecken, und versucht sie auffindbar, durchsuchbar und verlinkbar zu machen.",
-      "https://kleineanfragen.de/"
+    [ "note",
+      "Acapella Nr. 2",
+      "Gestern war Pentatonix mit dem Singen dran, heute sind es du und deine Familie! Versammle also alle im Haus zum Singen und lasst Weihnachtsstimmung aufkommen.",
+      "https://www.songtexte.com/songtext/pentatonix/hallelujah-63395ebf.html"
     ],  
-    [ "1417389-200",
-      "Bahn-Preiskalender",
-      "Klein aber Oho!: mit dieser App kannst du herausfinden, an welchen Tagen es am günstigsten ist, mit der Bahn zu fahren.",
-      "https://bahn.guru/"
+    [ "skiing",
+      "Sport",
+      "Der nächste Skiurlaub kommt schon bald. Als Vorbereitung wird dir deine Tochter eine Sportübung aufgeben, die du machen musst.",
+      ""
     ], 
-    [ "2014873-200",
-      "Politik Bei Uns",
-      "Politik bei uns macht die Politik vor Ort transparenter. Dazu werden Informationen und öffentliche Dokumente werden aus den Ratsinformationssystemen der Städte und Kommunen ausgelesen und in einer übersichtlichen und strukturierten Form präsentiert.",
-      "https://politik-bei-uns.de/"
+    [ "krampus",
+      "Imitation",
+      "Der Krampus soll heute Thema sein. Imitiere dazu einen Krampus (zb. raschelnde Kette, Rute, oder anderwärtig) und verhalte dich so, ohne dass du es dieser Person erzählst.",
+      ""
     ], 
-    [ "farmshops-200",
-    "Hofladen-Karte farmshops.eu",
-    "farmshops.eu hilft dabei Wochenmärkte, Hofläden, Imker, bäuerlichen Milch, -Eier- oder Essensautomaten und vielen andere Direktvermarktern in Deiner Region zu finden.",
-    "https://farmshops.eu/"
+    [ "santa",
+    "Nikolausjause",
+    "Heute ist Tag des heiligen Nikolaus. Da es quasi Brauch ist, dass Eltern deren Kindern an diesem Tag Säckchen mit Erdnüssen und/oder Mandarinen schenken, sollst du heute zumindest eines von beiden gegessen haben.",
+    ""
     ],
-    [ "X-200",
-    "Radlquartier München",
-    "Im Rahmen des Projekts wurden Offene Daten zur Nutzung von Leihrädern in München erfasst, ausgewertet und visualisiert. Ergebnisse von diesem und ähnlichen Studien können für Stadtplanung von Bedeutung sein, zum Beispiel um das Radwegenetz gezielt bedarfsgerecht auszubauen.",
-    "https://codeformunich.github.io/radlquartier/"
+    [ "story",
+    "Maxime",
+    "Heute will ich dir eine folgende Maxime mitgeben: Advent heißt <br><br> A – annehmen, auch den, der dir nicht passt <br><br> D – da sein füreinander <br><br> V – vertrauen, dass alles gut wird <br><br> E – entdecken, was wichtig ist<br><br> N – neu beginnen, auch wenn du gestern gescheitert bist <br><br> T – tragen helfen denen, die deine Hilfe brauchen",
+    ""
     ],
     [ "X-200",
     "Was steckt in meinem Leitungswasser?",
