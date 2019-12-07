@@ -38,12 +38,12 @@ $( document ).ready(function() {
     ],
     [ "note",
     "Weihnachtsstimmung",
-    "Wenn du das nächste Mal daheim im Radio oder beim Autofahren ein Weihnachtslied hörst, drehst du für die Dauer des Liedes lauter auf.",
+    "Wenn du das nächste Mal daheim im Radio oder beim Autofahren ein Weihnachtslied hörst, drehst du für die Dauer des Liedes lauter auf. <div></div>",
     ""
     ],
     [ "krampus",
     "Fasten",
-    "Da du am Freitag bei der Nikolausjause gut zugelangt hast, wirst du heute auf Süßigkeiten verzichten.",
+    "Da du am Freitag bei der Nikolausjause gut zugelangt hast, wirst du heute auf Süßigkeiten verzichten. <div></div>",
     ""
     ],
     [ "X-200",
