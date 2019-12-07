@@ -36,15 +36,15 @@ $( document ).ready(function() {
     "Heute will ich dir eine folgende Maxime mitgeben: Advent heißt <br><br> A – annehmen, auch den, der dir nicht passt <br><br> D – da sein füreinander <br><br> V – vertrauen, dass alles gut wird <br><br> E – entdecken, was wichtig ist<br><br> N – neu beginnen, auch wenn du gestern gescheitert bist <br><br> T – tragen helfen denen, die deine Hilfe brauchen <div></div>",
     ""
     ],
-    [ "X-200",
-    "Was steckt in meinem Leitungswasser?",
-    "Code For Heilbronn entwickelte diese Webanwendung, um die Daten zur Trinkwasserqualität, die von Stadtwerken erhoben werden, den Bürgerinnen und Bürgern verfügbar zu machen. Die Daten sind übersichtlich und ansprechend aufbereitet und nach Einzugsgebieten sortiert. Auch kann man hier den Mineraliengehalt des Leitungswassers mit Mineralwasser aus dem Handel vergleichen.",
-    "http://opendatalab.de/projects/trinkwasser/"
+    [ "note",
+    "Weihnachtsstimmung",
+    "Wenn du das nächste Mal daheim im Radio oder beim Autofahren ein Weihnachtslied hörst, drehst du für die Dauer des Liedes lauter auf.",
+    ""
     ],
-    [ "X-200",
-    "luftdaten.info",
-    "Inzwischen eins der größten CivicTech Projekte weltweit, geboren im OK Lab Stuttgart. Mithilfe von Sensoren, die auch ein Laie leicht zusammenbauen und an die Seite anschließen kann, werden Daten zur Feinstabbelastung der Luft erfasst und live auf einer Karte visualisiert. Über eine Schnittstelle lassen sich weitere Apps anbinden.",
-    "https://luftdaten.info/"
+    [ "krampus",
+    "Fasten",
+    "Da du am Freitag bei der Nikolausjause gut zugelangt hast, wirst du heute auf Süßigkeiten verzichten.",
+    ""
     ],
     [ "X-200",
     "Ernte teilen",
