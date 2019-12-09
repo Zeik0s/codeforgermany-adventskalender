@@ -46,10 +46,10 @@ $( document ).ready(function() {
     "Da du am Freitag bei der Nikolausjause gut zugelangt hast, wirst du heute auf Süßigkeiten verzichten. <div></div>",
     ""
     ],
-    [ "X-200",
-    "Ernte teilen",
-    "Ernte-teilen.org bietet eine Plattform, die Landwirte und Verbraucherinnen, die sich an Solidarischer Landwirtschaft beteiligen möchten, zusammenfinden lässt.",
-    "https://ernte-teilen.org/"
+    [ "story",
+    "Adventszeit",
+    "Heute hab ich wieder einen Spruch für dich: Das Herz weihnachtlich aufgemacht,<br>Denn bald schon kommt die stille Nacht.<br> Ein bisschen Einkehr halten <br> Und ab und zu die Hände falten.<br> Adventszeit will uns lehren, <br> Ein bisschen mehr zu geben als zu nehmen.",
+    ""
     ], 
     [ "X-200",
     "Bürger baut Stadt",
