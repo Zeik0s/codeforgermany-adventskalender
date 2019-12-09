@@ -48,7 +48,7 @@ $( document ).ready(function() {
     ],
     [ "story",
     "Adventszeit",
-    "Heute hab ich wieder einen Spruch für dich: Das Herz weihnachtlich aufgemacht,<br>Denn bald schon kommt die stille Nacht.<br> Ein bisschen Einkehr halten <br> Und ab und zu die Hände falten.<br> Adventszeit will uns lehren, <br> Ein bisschen mehr zu geben als zu nehmen.",
+    "Heute hab ich wieder einen Spruch für dich: <br> Das Herz weihnachtlich aufgemacht,<br>Denn bald schon kommt die stille Nacht.<br> Ein bisschen Einkehr halten <br> Und ab und zu die Hände falten.<br> Adventszeit will uns lehren, <br> Ein bisschen mehr zu geben als zu nehmen.",
     ""
     ], 
     [ "X-200",
