@@ -51,10 +51,10 @@ $( document ).ready(function() {
     "Heute hab ich wieder einen Spruch für dich: <br> Das Herz weihnachtlich aufgemacht,<br>Denn bald schon kommt die stille Nacht.<br> Ein bisschen Einkehr halten <br> Und ab und zu die Hände falten.<br> Adventszeit will uns lehren, <br> Ein bisschen mehr zu geben als zu nehmen.",
     ""
     ], 
-    [ "X-200",
-    "Bürger baut Stadt",
-    "Bei der Stadplanung in Deutschland müssen Bürger mit einbezogen werden. Hierfür müssen geplante Änderungen von Bebauungsplänen veröffentlicht werden, so dass Bürger sich beteiligen können. Diese Plattform versucht, alle verfügbaren Daten zusammenzubringen und die Vorhaben auf einer Karte zu verorten.",
-    "https://buergerbautstadt.de/"
+    [ "note",
+    "Singstar",
+    "Jemand darf sich ein Weihnachtslied wünschen, dass du ihm/ihr vorsingen musst.",
+    ""
     ], 
     [ "X-200",
     "Stolpersteine App",
