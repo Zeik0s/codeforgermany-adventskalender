@@ -78,7 +78,7 @@ $( document ).ready(function() {
     ], 
     [ "note",
     "Adventstunde",
-    "Veranstalte mit deiner Familie eine besinnliche Adventstunde um den Adventkranz",
+    "Veranstalte mit deiner Familie eine besinnliche Adventstunde um den Adventkranz. <div></div>",
     ""
     ],
     [ "X-200",
