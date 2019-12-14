@@ -71,15 +71,15 @@ $( document ).ready(function() {
     "Wien ist groß. Und anders. Und voll mit Weihnachtsmärkten. Die Weihnachtszeit dauert nicht mehr allzu lange, deswegen solltest du mal darüber nachdenken, ob du in den letzten Wochen schon einen Christkindlmarkt besucht hast, den du normalerweise selten besuchst. Zumindest bei einem sollte es der Fall sein. Hier ist eine Liste mit Märkten in den Bezirken: <div></div>",
     "https://www.wien.gv.at/freizeit/einkaufen/maerkte/weihnachtsmaerkte.html#eins"
     ], 
-    [ "X-200",
-    "KastanienApp",
-    "Vor ein paar Monaten hat die Stadt Hamburg auf ihrem Transparenzportal das Baumkataster als Open Data veröffentlicht. Passend zur Zeit der Herbstsparziergänge drängte sich uns bei einem Code For Heilbronn Treff die Idee einer Baum App auf, die einem ermöglicht, unterwegs leicht Kastanienbäume zu finden und deren Früchte zu sammeln. Die App ermöglicht aber auch allgemein, für jeden Baum in Heilbronn Informationen wie Art, lateinischer Name und Alter abzufragen. Somit kann unterwegs die Frage, was für ein Baum vor einem steht, dank Standorterkennung mit dem Smartphone ganz leicht beantwortet werden.",
-    "https://codefor.de/projekte/2014-11-29-hn-kastanienapp.html"
+    [ "walking",
+    "Spaziergänge",
+    "Lass dich von einem Ehemann mit der Wienerwald App zu einem Spaziergang verleiten.",
+    ""
     ], 
-    [ "X-200",
-    "OffenerHaushalt",
-    "Das Projekt Offener Haushalt visualisiert intuitiv verständlich die Haushalte von Bund, Ländern, Kommunen und anderen Institutionen, soweit sie in maschinenlesbarer Form vorliegen. Checke doch mal, ob dein Wohnort bereits dabei ist!",
-    "https://offenerhaushalt.de/"
+    [ "note",
+    "Adventstunde",
+    "Veranstalte mit deiner Familie eine besinnliche Adventstunde um den Adventkranz",
+    ""
     ],
     [ "X-200",
     "Großstadt-Baum",
