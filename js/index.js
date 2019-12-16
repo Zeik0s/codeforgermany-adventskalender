@@ -81,15 +81,15 @@ $( document ).ready(function() {
     "Veranstalte mit deiner Familie eine besinnliche Adventstunde um den Adventkranz. <div></div>",
     ""
     ],
-    [ "X-200",
-    "Großstadt-Baum",
-    "Text muss noch nachgereicht werden.",
-    "https://tursics.github.io/trees-story/"
+    [ "note",
+    "Musikalischer Rahmen",
+    "Mir wurde gesagt, dass dir dieses Lied auch gefallen wird. <div></div>",
+    "https://www.youtube.com/watch?v=rPgS2pL1g8s"
     ],
-    [ "X-200",
-    "Wie kaputt ist Ihre Schule?",
-    "Die Anwendung zeigt das Ergebnis des Gebäudescans, also der gemeldete Sanierungsbedarf bei Schulgebäuden (Stand: 30.06.2016). Die Daten stammen von der Senatsverwaltung für Bildung, Jugend und Wissenschaft.",
-    "http://schulsanierung.tursics.de/"
+    [ "zuckerstange",
+    "Weihnachtsgebäck",
+    "Weihnachten ist nichts ohne Weihnachtsgebäck. Du sollst deswegen in den nächsten Tagen zumindest einmal Lebkuchen oder Weihnachtskekse essen. <div></div>",
+    ""
     ],
     [ "X-200",
     "Bäume-Karte Berlin",
