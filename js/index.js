@@ -96,10 +96,10 @@ $( document ).ready(function() {
     "Advent das ist die stille Zeit, die Tage schnell verrinnen. Das Fest der Liebe ist nicht weit, fangt an euch zu besinnen! <div></div>",
     ""
     ],
-    [ "X-200",
-    "Datenwaben",
-    "Noch ein Projekt aus der Hand von Thomas Tursics von Code For Berlin. In Form von Waben werden aktuelle Infos aus verschienenen offenen Datenquellen dargestellt.",
-    "http://datenwaben.de/?city=vienna&page=cards"
+    [ "story",
+    "Möge die Adventzeit mit dir sein.",
+    "Auch wenn die folgende Aufgabe eher wenig mit Advent zu tun hat, ist es dennoch Teil des Adventkalenders. Aktuell ist gerade der 9. Star Wars Teil in die Kinos gekommen. Damit ich weiß, dass du den Adventkalender gewissenhaft verfolgst, hätte ich gerne, dass du den Regisseur im Internet suchst und mir bekannt gibst. <div></div>",
+    ""
     ],
     [ "X-200",
     "Wartezeiten in Moers",
