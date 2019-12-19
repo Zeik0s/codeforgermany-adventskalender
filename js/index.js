@@ -91,10 +91,10 @@ $( document ).ready(function() {
     "Weihnachten ist nichts ohne Weihnachtsgebäck. Du sollst deswegen in den nächsten Tagen zumindest einmal Lebkuchen oder Weihnachtskekse essen. <div></div>",
     ""
     ],
-    [ "X-200",
-    "Bäume-Karte Berlin",
-    "Die Bäume-Karte aus Berlin zeigt alle auf der OpenStreetMap kartierten Bäume der Stadt.",
-    "https://trees.codefor.de/"
+    [ "story",
+    "Adventzeit",
+    "Advent das ist die stille Zeit, die Tage schnell verrinnen. Das Fest der Liebe ist nicht weit, fangt an euch zu besinnen! <div></div>",
+    ""
     ],
     [ "X-200",
     "Datenwaben",
